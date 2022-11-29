@@ -12,10 +12,9 @@ Mario González San Emeterio
 Arthur Bringhenti Maciel
 Jon Ander Incera Moreno
 
-[![Build Status](Documentacion)]()
-
 # MagicBet
 
 ## _Apuestas partidos de fútbol_
 
-
+MagicBet es una aplicación de una casa de apuestas centrada en apuestas de fútbol,
+creada para que los aficionados al fútbol pudiesen ganar algo de dinero con los partidos de sus equipos.
