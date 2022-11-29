@@ -40,3 +40,8 @@ Dicha aplicación tiene varios funcionalidades:
 P: ¿Puedo sacar el dinero cuando quiera?
 R: Sí, siempre y cuando el saldo de tu banca sea igual o mayor que 5.
 ```
+
+```
+P: ¿Cuál es la cantidad máxima que se puede apostar en una apuesta?
+R: No hay máximo a la hora de apostar pero sí un máximo de ganancias, siendo esta de 200.000€
+```
