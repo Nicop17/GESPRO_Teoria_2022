@@ -17,4 +17,10 @@ Jon Ander Incera Moreno
 ## _Apuestas partidos de fútbol_
 
 MagicBet es una aplicación de una casa de apuestas centrada en apuestas de fútbol,
-creada para que los aficionados al fútbol pudiesen ganar algo de dinero con los partidos de sus equipos.
+creada para que los aficionados al fútbol pudiesen ganar algo de dinero con los partidos de sus equipos. 
+Dicha aplicación tiene varios funcionalidades:
+
+- Gestión de Usuarios
+- Funciones de la aplicación
+- Soporte
+- Métodos de pago
