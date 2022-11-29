@@ -10,7 +10,7 @@ JMA modifica
 - [Nicolás Pérez Ibáñez](https://github.com/Nicop17) 
 - [Mario González San Emeterio](https://github.com/MaarioGlezz)
 - [Arthur Bringhenti Maciel](https://github.com/Arrcturus)
-- [Jon Ander Incera Moreno] (https://github.com/jonandermorenoo)
+- [Jon Ander Incera Moreno](https://github.com/jonandermorenoo)
 
 [![Build Status]()]()
 
