@@ -8,7 +8,7 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 - [Nicolás Pérez Ibáñez](https://github.com/Nicop17) 
-- [Mario González San Emeterio]
+- [Mario González San Emeterio](https://github.com/MaarioGlezz)
 - [Arthur Bringhenti Maciel]
 - [Jon Ander Incera Moreno]
 
