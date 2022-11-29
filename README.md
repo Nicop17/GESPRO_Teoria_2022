@@ -38,6 +38,12 @@ Dicha aplicación tiene varios funcionalidades:
 
 ## Métodos de pago
 
+En los métodos de pago, se pueden elegir diversas maneras de pagar:
+
+- Tarjeta de crédito
+- Tarjeta de débito
+- PayPal
+
 ## Preguntas frecuentes
 ```
 P: ¿Puedo sacar el dinero cuando quiera?
