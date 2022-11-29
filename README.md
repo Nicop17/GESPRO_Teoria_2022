@@ -36,6 +36,17 @@ Dicha aplicación tiene varios funcionalidades:
 
 ## Soporte
 
+Dentro del soporte de la aplicación, el usuario podrá acceder a distintas opciones:
+
+  - Cambiar el tema de la aplicación
+  - Cambiar idioma
+  - Configuración de la cuenta
+  - Cuotas fraccionadas o decimales
+  - Ayuda al usuario
+  - Condiciones al resolver las apuestas
+  - Seleccionar idioma
+  - Información sobre el jeugo responsable
+ 
 ## Métodos de pago
 
 En los métodos de pago, se pueden elegir diversas maneras de pagar:
