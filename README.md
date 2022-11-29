@@ -25,4 +25,10 @@ Dicha aplicación tiene varios funcionalidades:
 - Soporte
 - Métodos de pago
 
-## **Gestión de usuarios**
+## Gestión de usuarios
+
+## Funciones de la aplicación
+
+## Soporte
+
+## Métodos de pago
