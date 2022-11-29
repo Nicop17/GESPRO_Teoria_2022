@@ -34,6 +34,13 @@ Dicha aplicación tiene varias funcionalidades:
 
 #### Funciones de la aplicación
 
+La aplicación presenta una serie de funciones que permiten mantener informado al usuario:
+- Ver partidos en directo
+- Seguimiento de los resultados
+- Calculadora de cuotas
+- Categoría de ligas
+- Consultar estadísticas
+
 #### Soporte
 
 Dentro del soporte de la aplicación, el usuario podrá acceder a distintas opciones:
@@ -45,7 +52,7 @@ Dentro del soporte de la aplicación, el usuario podrá acceder a distintas opci
   - Ayuda al usuario
   - Condiciones al resolver las apuestas
   - Seleccionar idioma
-  - Información sobre el jeugo responsable
+  - Información sobre el juego responsable
  
 #### Métodos de pago
 
