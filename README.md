@@ -23,7 +23,7 @@ creada para que los aficionados al fútbol pudiesen ganar algo de dinero con los
 
 Actualmente el proyecto se encuentra en desarrollo.
 
-Dicha aplicación tiene varios funcionalidades:
+Dicha aplicación tiene varias funcionalidades:
 
 - Gestión de usuarios
 - Funciones de la aplicación
