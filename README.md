@@ -12,7 +12,7 @@ JMA modifica
 - [Arthur Bringhenti Maciel](https://github.com/Arrcturus)
 - [Jon Ander Incera Moreno]
 
-[![Build Status](https://as.com/motor/imagenes/2006/03/17/mas_motor/1142614219_740215_0000000001_noticia_grande.jpg)](https://www.youtube.com/watch?v=oq9HlVE86OA)
+[![Build Status]()]()
 
 # MagicBet
 
