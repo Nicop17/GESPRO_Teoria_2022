@@ -13,4 +13,4 @@ Arthur Bringhenti Maciel
 Jon Ander Incera Moreno
 # MagicBet
 
-## _Tu casa de apuestas favorita_
+## _Apuestas partidos de fútbol_
