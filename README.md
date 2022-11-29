@@ -37,5 +37,5 @@ Dicha aplicación tiene varios funcionalidades:
 
 ## Preguntas frecuentes
 
-> P: ¿Puedo sacar el dinero cuando quiera?
+> P: ¿Puedo sacar el dinero cuando quiera?\n
 > R: Sí, siempre y cuando el saldo de tu banca sea igual o mayor que 5.
