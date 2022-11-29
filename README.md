@@ -11,6 +11,11 @@ Nicolás Pérez Ibáñez
 Mario González San Emeterio
 Arthur Bringhenti Maciel
 Jon Ander Incera Moreno
+
+[![Build Status](Documentacion)]()
+
 # MagicBet
 
 ## _Apuestas partidos de fútbol_
+
+
