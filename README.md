@@ -30,11 +30,11 @@ Dicha aplicación tiene varios funcionalidades:
 - Soporte
 - Métodos de pago
 
-## Gestión de usuarios
+#### Gestión de usuarios
 
-## Funciones de la aplicación
+#### Funciones de la aplicación
 
-## Soporte
+#### Soporte
 
 Dentro del soporte de la aplicación, el usuario podrá acceder a distintas opciones:
 
@@ -47,9 +47,9 @@ Dentro del soporte de la aplicación, el usuario podrá acceder a distintas opci
   - Seleccionar idioma
   - Información sobre el jeugo responsable
  
-## Métodos de pago
+#### Métodos de pago
 
-En los métodos de pago, se pueden elegir diversas maneras de pagar:
+En los métodos de pago, se pueden elegir diversas maneras de ingresar:
 
 - Tarjeta de crédito
 - Tarjeta de débito
