@@ -8,9 +8,9 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 - [Nicolás Pérez Ibáñez](https://github.com/Nicop17) 
-Mario González San Emeterio
-Arthur Bringhenti Maciel
-Jon Ander Incera Moreno
+- [Mario González San Emeterio]
+- [Arthur Bringhenti Maciel]
+- [Jon Ander Incera Moreno]
 
 # MagicBet
 
