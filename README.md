@@ -16,7 +16,7 @@ JMA modifica
 
 # MagicBet
 
-## _Apuestas partidos de fútbol_
+## _Apuestas, partidos de fútbol, partidos de tenis y mucho más_
 
 MagicBet es una aplicación de una casa de apuestas centrada en apuestas de fútbol,
 creada para que los aficionados al fútbol pudiesen ganar algo de dinero con los partidos de sus equipos. 
