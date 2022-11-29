@@ -33,11 +33,11 @@ Dicha aplicación tiene varios funcionalidades:
 
 ## Soporte
 
+## Métodos de pago
+
 ## Preguntas frecuentes
 
 ```sh
-P: ¿Puedo sacar el dinero cuando quiera?
+P: "¿Puedo sacar el dinero cuando quiera?"
 R: Sí, siempre y cuando el saldo de tu banca sea igual o mayor que 5.
 ```
-
-## Métodos de pago
