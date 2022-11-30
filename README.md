@@ -12,7 +12,11 @@ JMA modifica
 - [Arthur Bringhenti Maciel](https://github.com/Arrcturus)
 - [Jon Ander Incera Moreno](https://github.com/jonandermorenoo)
 
-[![Build Status]()]()
+<p align="left">
+<img src ="https://img.shields.io/github/badge/STATUS-EN%DESARROLLO-green">
+
+<img src="https://img.shields.io/github/last-commit/Nicop17/GESPRO_Teoria_2022">
+</p>
 
 # MagicBet
 
