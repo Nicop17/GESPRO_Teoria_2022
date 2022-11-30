@@ -26,8 +26,6 @@ JMA modifica
 MagicBet es una aplicación de una casa de apuestas centrada en apuestas de fútbol,
 creada para que los aficionados al fútbol pudiesen ganar algo de dinero con los partidos de sus equipos. 
 
-Actualmente el proyecto se encuentra en desarrollo.
-
 Dicha aplicación tiene varias funcionalidades:
 
 - Gestión de usuarios
