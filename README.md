@@ -13,7 +13,7 @@ JMA modifica
 - [Jon Ander Incera Moreno](https://github.com/jonandermorenoo)
 
 <p align="left">
-<img src ="https://img.shields.io/github/badge/STATUS-EN%DESARROLLO-green">
+<img src ="https://img.shields.io/github/badge/STATUS-EN%20DESARROLLO-green">
 
 <img src="https://img.shields.io/github/last-commit/Nicop17/GESPRO_Teoria_2022">
 </p>
