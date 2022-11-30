@@ -32,9 +32,23 @@ Dicha aplicación tiene varias funcionalidades:
 
 #### Gestión de usuarios
 
+Dentro de gestión de usuario, se podra acceder a distintas opciones:
+
+- Se podra registrarse
+- Iniciar sesión
+- Hacer apuestas
+- Logout
+- Retirar dinero
+- Retirar apuesta
+- Hacer combinaciones
+- Ingresar dinero
+- Crear usuario
+- Escribir comentario
+
 #### Funciones de la aplicación
 
 La aplicación presenta una serie de funciones que permiten mantener informado al usuario:
+
 - Ver partidos en directo
 - Seguimiento de los resultados
 - Calculadora de cuotas
